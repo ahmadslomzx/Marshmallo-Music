@@ -24,7 +24,7 @@ async def start_(client: Client, message: Message):
                         "💬 Group", url="https://t.me/Liebe_Support"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/xD_Projects"
+                        "Channel 🔈", url="https://t.me/xD_Bots"
                     ),
                    
                 ],
