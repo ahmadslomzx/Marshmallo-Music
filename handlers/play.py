@@ -26,6 +26,8 @@ import sira
 from config import DURATION_LIMIT
 from helpers.wrappers import errors, admins_only
 from helpers.errors import DurationLimitError
+from callsmusic.callsmusic import client as USER
+from callsmusic import callsmusic, queues
 
 
 chat_id = None
