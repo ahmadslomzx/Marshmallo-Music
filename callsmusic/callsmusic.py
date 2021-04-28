@@ -20,7 +20,7 @@ from pyrogram import Client
 from pytgcalls import PyTgCalls
 
 import config
-from siri import queues
+from sira import queues
 
 client = Client(config.SESSION_NAME, config.API_ID, config.API_HASH)
 pytgcalls = PyTgCalls(client)
