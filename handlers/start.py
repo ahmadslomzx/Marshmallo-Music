@@ -30,7 +30,7 @@ async def start_(client: Client, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Commands ‼️", url="https://telegra.ph/%F0%9D%95%90%F0%9D%96%94%F0%9D%96%9A%F0%9D%96%97---%F0%9D%95%AF%F0%9D%96%86%F0%9D%96%89%F0%9D%96%89%F0%9D%95%AA-%EA%97%84-04-23-5"
+                        "Commands ‼️", url="https://telegra.ph/%F0%92%86%9C%E1%8F%95%E1%8F%82%E1%8E%A5%E1%8F%81%E1%8D%88%E1%8F%82%E1%8F%97%E1%8F%81-%F0%9D%95%8B%F0%9D%95%96%F0%9D%95%92%F0%9D%95%9E-PERRY-GANG%F0%92%86%9C-04-28-3"
                     )
                 ]
             ]
