@@ -13,3 +13,7 @@ aiofiles
 wget
 python-arq
 asyncio
+search_engine_parser
+ffmpeg
+future
+psutil
