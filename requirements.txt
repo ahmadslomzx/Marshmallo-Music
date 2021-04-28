@@ -12,3 +12,4 @@ aiohttp
 aiofiles
 wget
 python-arq
+asyncio
