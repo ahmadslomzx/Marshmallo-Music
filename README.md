@@ -52,7 +52,8 @@ Bot Link:  <a href="https://t.me/Marshmallo_Robot" alt="Marshmallo Music"> <img 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
--
+- [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+
 
 #### Based on Callsmusic-1
 
