@@ -2,11 +2,12 @@
 
 ### A bot that can play music on telegram group's voice call
 
-# Available on telegram as @Marshmallo_Robot
 
 <p align="center">
   <img src="https://telegra.ph/file/fb45a1e4a5315c24e776c.png">
 </p>
+
+Bot Link:  <a href="https://t.me/Marshmallo_Robot" alt="Marshmallo Music"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-Marshmallo Music-blue" /> </a>
 
 <h2> Whats new 🔥 </h2>
 
@@ -46,7 +47,12 @@
 - `/userbotjoin` - invite assistant to your chat
 - `/admincache` - Refresh admin list
 
+## Requirements
 
+- FFmpeg
+- NodeJS [nodesource.com](https://nodesource.com/)
+- Python 3.7+
+-
 
 #### Based on Callsmusic-1
 
