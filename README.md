@@ -59,7 +59,7 @@ Bot Link:  <a href="https://t.me/Marshmallo_Robot" alt="Marshmallo Music"> <img 
 
 ### Deploy To Heroku</h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Shinchan-xD/Marshmallo-Music)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Awiteb/YouTube-Bot)
 
 Use [@StringSessionGeneratorRobot](https://t.me/StringSessionGeneratorRobot) to get pyrogram string session
 
